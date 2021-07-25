@@ -7,9 +7,13 @@
 На тестирование затрачено: 0 ч 20 мин
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* [Result is FAIL: Visa](https://github.com/SvKons/credit-card-validator/issues/1)
+* [Result is FAIL: Discover](https://github.com/SvKons/credit-card-validator/issues/2)
+* [Results are FAIL: Diners Club - Carte Blanche](https://github.com/SvKons/credit-card-validator/issues/3)
+* [Result is FAIL: JCB](https://github.com/SvKons/credit-card-validator/issues/4)
+* [Result are FAIL: Diners Club - International](https://github.com/SvKons/credit-card-validator/issues/5)
+* [Result are FAIL: American Express (AMEX)](https://github.com/SvKons/credit-card-validator/issues/6)
+
 
 ## Описание процесса тестирования
 
