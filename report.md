@@ -7,12 +7,12 @@
 На тестирование затрачено: 0 ч 20 мин
 
 В результате тестирования выявлены следующие дефекты:
-* [Result is FAIL: Visa](https://github.com/SvKons/credit-card-validator/issues/1)
-* [Result is FAIL: Discover](https://github.com/SvKons/credit-card-validator/issues/2)
-* [Results are FAIL: Diners Club - Carte Blanche](https://github.com/SvKons/credit-card-validator/issues/3)
-* [Result is FAIL: JCB](https://github.com/SvKons/credit-card-validator/issues/4)
-* [Result are FAIL: Diners Club - International](https://github.com/SvKons/credit-card-validator/issues/5)
-* [Result are FAIL: American Express (AMEX)](https://github.com/SvKons/credit-card-validator/issues/6)
+* [Номер банковской карты платежной системы Visa не проходит валидацию в программе Main.java](https://github.com/SvKons/credit-card-validator/issues/1)
+* [Номер банковской карты платежной системы Discover не проходит валидацию в программе Main.java](https://github.com/SvKons/credit-card-validator/issues/2)
+* [Номера банковских карт платежной системы Diners Club - Carte Blanche не проходят валидацию в программе Main.java](https://github.com/SvKons/credit-card-validator/issues/3)
+* [Номер банковской карты платежной системы JCB не проходит валидацию в программе Main.java](https://github.com/SvKons/credit-card-validator/issues/4)
+* [Номера банковских карт платежной системы Diners Club - International не проходят валидацию в программе Main.java](https://github.com/SvKons/credit-card-validator/issues/5)
+* [Номера банковских карт платежной системы American Express (AMEX) не проходят валидацию в программе Main.java](https://github.com/SvKons/credit-card-validator/issues/6)
 
 
 ## Описание процесса тестирования
@@ -20,7 +20,6 @@
 В процессе тестирования использовались следующие артефакты:
 * Программа IntelliJ idea
 * Валидные и невалидные номера банковских карт
-* Файл Main.java
 
 В качестве тестовых данных использовались данные <code>[Credit Card Number Generator & Validator](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 </code> :
